@@ -1,3 +1,3 @@
 1 + 1
 
-1 + 'what is wrong'
+1 + 5
